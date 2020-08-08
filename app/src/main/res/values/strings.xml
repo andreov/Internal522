@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internai_522</string>
+    <string name="name">Login</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="CheckBox">Хранить логин во внешнем хранилище</string>
+</resources>
